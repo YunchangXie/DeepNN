@@ -1,4 +1,5 @@
 import numpy as np
+np.random.seed(1)
 
 # This program is building a 2-layer Neural Network
 
